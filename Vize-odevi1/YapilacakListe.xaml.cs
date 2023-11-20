@@ -34,19 +34,14 @@ public partial class YapilacakListe : ContentPage
         }
     }
 
-    private void OnItemCheckedChanged(object sender, CheckedChangedEventArgs e)
-    {
-        var checkBox = sender as CheckBox;
-        var selectedItem = checkBox.BindingContext as TodoItem;
-        UpdateTextDecorations(selectedItem);
-    }
+    
 
     private async void OnEditItemClicked(object sender, System.EventArgs e)
     {
         var button = sender as Button;
         var selectedItem = button.BindingContext as TodoItem;
 
-        string result = await DisplayPromptAsync("Görevi Düzenle", "Görev metnini düzenleyin:", initialValue: selectedItem.Text);
+        string result = await DisplayPromptAsync("not duzelle", "notu duzelt:", initialValue: selectedItem.Text);
         if (!string.IsNullOrEmpty(result))
         {
             selectedItem.Text = result;

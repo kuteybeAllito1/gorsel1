@@ -4,22 +4,52 @@
              x:Class="Vize_odevi1.Renkler"
              Title="Renkler">
     <ScrollView>
-        <StackLayout Padding="20" Spacing="20">
-            <Label Text="Kırmızı" />
-            <Slider x:Name="SliderRed" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
+        <VerticalStackLayout
+         Spacing="25"
+         Padding="30,0"
+         VerticalOptions="Center">
+            <VerticalStackLayout>
 
-            <Label Text="Yeşil" />
-            <Slider x:Name="SliderGreen" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
+                <Label>Red</Label>
+                <Slider x:Name="slR" Maximum="255" ValueChanged="slR_ValueChanged"/>
+                <Label x:Name="lblR" Text="0"/>
 
-            <Label Text="Mavi" />
-            <Slider x:Name="SliderBlue" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
 
-            <BoxView x:Name="ColorBox" HeightRequest="100" WidthRequest="100" BackgroundColor="Black" />
+            </VerticalStackLayout>
 
-            <Label x:Name="LabelColorCode" />
+            <Border HeightRequest="7"/>
 
-            <Button Text="Rastgele Renk Oluştur" Clicked="OnRandomColorButtonClicked" FontSize="Medium" />
-            <Button Text="Kodu Kopyala" Clicked="OnCopyButtonClicked" FontSize="Medium" />
-        </StackLayout>
+            <VerticalStackLayout>
+
+                <Label>Green</Label>
+                <Slider x:Name="slG" Maximum="255" ValueChanged="slG_ValueChanged"/>
+                <Label x:Name="lblG" Text="0"/>
+
+
+            </VerticalStackLayout>
+
+            <Border HeightRequest="7"/>
+
+
+
+            <VerticalStackLayout>
+
+                <Label>Blue</Label>
+                <Slider x:Name="slB" Maximum="255" ValueChanged="slB_ValueChanged"/>
+                <Label x:Name="lblB" Text="0"/>
+
+
+            </VerticalStackLayout>
+
+            <Border HeightRequest="7"/>
+
+            <Label x:Name="lbl" HeightRequest =" 100" BackgroundColor="#000"/>
+
+            <Button Text="Rastgele Renk Oluştur" Clicked="OnRandomColorButtonClicked" FontSize="Medium" BackgroundColor="Grey" TextColor="Black" />
+            <Button Text="Kodu Kopyala" Clicked="OnCopyButtonClicked" FontSize="Medium" BackgroundColor="Grey" TextColor="Black" />
+            <Entry/>
+
+
+        </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

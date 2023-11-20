@@ -7,7 +7,7 @@
 
         <StackLayout Margin="20">
             <Editor HeightRequest="150" x:Name="NewItemEntry" Placeholder="kaydedilecek notlar yazinin..." />
-            <Button FontSize="Medium" Text="Ekle" Clicked="OnAddItemClicked" />
+            <Button FontSize="Medium" Text="Ekle" Clicked="OnAddItemClicked"  BackgroundColor="Grey" TextColor="Black" />
             <ListView x:Name="TodoListView" ItemsSource="{Binding TodoItems}"
               ItemTapped="OnItemTapped"
               SelectionMode="None">
@@ -15,13 +15,9 @@
                     <DataTemplate>
                         <ViewCell>
                             <StackLayout Orientation="Horizontal">
-                                <CheckBox IsChecked="{Binding IsDone}"
-                                  CheckedChanged="OnItemCheckedChanged"/>
-                                <Label Text="{Binding Text}"
-                               TextDecorations="{Binding TextDecorations}"
-                               VerticalOptions="Center" />
-                                <Button Text="Düzenle" Clicked="OnEditItemClicked" FontSize="Medium" />
-                                <Button Text="Sil" Clicked="OnDeleteItemClicked" FontSize="Medium" />
+                                
+                                <Button Text="Düzenle" Clicked="OnEditItemClicked" FontSize="Medium"  BackgroundColor="Grey" TextColor="Black" />
+                                <Button Text="Sil" Clicked="OnDeleteItemClicked" FontSize="Medium"  BackgroundColor="Grey" TextColor="Black" />
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>

@@ -5,15 +5,19 @@
              Title="Vucut Hesaplama">
     <ScrollView>
         <VerticalStackLayout Padding="20">
-            <Label Text="Boy (cm):" FontSize="Medium" />
-            <Entry x:Name="EntryHeight" Placeholder="Boy (ör. 170)" Keyboard="Numeric" />
+            <HorizontalStackLayout Margin="0,0,0,20">
+                <Label Text="Boy (cm):" FontSize="Medium" />
+                <Entry x:Name="EntryHeight" Placeholder="Boy (ör. 170)" Keyboard="Numeric" TextColor="White" WidthRequest="800"  Margin="30,0,0,0" />
+            </HorizontalStackLayout>
 
-            <Label Text="Kilo (kg):" FontSize="Medium" Margin="0,10,0,0" />
-            <Entry x:Name="EntryWeight" Placeholder="Kilo (ör. 70)" Keyboard="Numeric" />
+            <HorizontalStackLayout>
+                <Label Text="Kilo (kg):" FontSize="Medium" Margin="0,10,0,0" />
+                <Entry x:Name="EntryWeight" Placeholder="Kilo (ör. 70)" Keyboard="Numeric" TextColor="White" WidthRequest="800" Margin="40,0,0,0" />
+            </HorizontalStackLayout>
 
-            <Button Text="Hesapla" Clicked="OnCalculateButtonClicked" Margin="0,20,0,0" FontSize="Medium"/>
+            <Button Text="Hesapla" Clicked="OnCalculateButtonClicked" Margin="0,20,0,0" FontSize="Medium" BackgroundColor="Grey" TextColor="Black"/>
 
-            <Label x:Name="LabelResult" FontSize="Large" TextColor="Blue" />
+            <Label x:Name="LabelResult" FontSize="Large" TextColor="Gray" />
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

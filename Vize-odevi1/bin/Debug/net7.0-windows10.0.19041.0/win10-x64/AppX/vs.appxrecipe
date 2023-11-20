@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>c3098bb8-70e3-4fea-b257-bad68a9c1e45</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>57FCE3CE68EA967617FDC14C3DD48D405D76A608E26975AE6FF4BCE5816829D0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>c3098bb8-70e3-4fea-b257-bad68a9c1e45_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>c3098bb8-70e3-4fea-b257-bad68a9c1e45_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,32 +27,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-18T12:53:15.678</Modified>
+      <Modified>2023-11-20T11:27:17.213</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-18T12:53:15.376</Modified>
+      <Modified>2023-11-20T11:27:16.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.runtimeconfig.json">
       <PackagePath>Vize-odevi1.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-12T13:39:13.122</Modified>
+      <Modified>2023-11-19T01:17:20.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.dll">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.dll">
       <PackagePath>Vize-odevi1.dll</PackagePath>
-      <Modified>2023-11-18T12:53:13.805</Modified>
+      <Modified>2023-11-19T15:47:24.185</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Vize-odevi1.exe</PackagePath>
-      <Modified>2023-11-18T12:53:13.815</Modified>
+      <Modified>2023-11-19T15:47:24.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.deps.json">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Vize-odevi1.deps.json">
       <PackagePath>Vize-odevi1.deps.json</PackagePath>
-      <Modified>2023-11-12T13:39:13.012</Modified>
+      <Modified>2023-11-19T01:17:20.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\husey\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.13\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -934,263 +934,263 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-09-21T14:56:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-11-12T13:22:19.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:22:29.055</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:22:29.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:22:29.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:22:29.124</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:22:29.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-11-12T13:22:19.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-11-12T13:22:19.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-11-12T13:29:49.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.987</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:50.007</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:50.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:50.081</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-11-12T13:29:49.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-11-12T13:29:49.844</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-11-12T13:29:49.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-11-12T13:29:49.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-11-12T13:29:49.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-11-12T13:29:49.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-11-12T13:29:49.828</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-11-12T13:29:49.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-11-12T13:29:49.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-11-12T13:29:49.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.795</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:49.800</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:49.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:49.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-11-12T13:29:49.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-11-12T13:29:49.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-11-12T13:29:49.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-11-12T13:29:49.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-11-12T13:29:49.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:49.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:49.907</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:49.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.872</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:49.878</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:49.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:49.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:49.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:49.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:49.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:29:49.927</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:29:49.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:29:49.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:29:49.950</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:29:49.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\benim.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\benim.scale-100.png">
       <PackagePath>benim.scale-100.png</PackagePath>
       <Modified>2023-11-11T13:28:21.770</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\body.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\body.scale-100.png">
       <PackagePath>body.scale-100.png</PackagePath>
       <Modified>2023-11-11T16:21:46.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\credit.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\credit.scale-100.png">
       <PackagePath>credit.scale-100.png</PackagePath>
       <Modified>2023-11-11T16:24:31.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-11-12T13:22:29.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-11-12T13:22:29.367</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-11-12T13:22:29.379</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-11-12T13:22:29.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-11-12T13:22:29.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\main.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\main.scale-100.png">
       <PackagePath>main.scale-100.png</PackagePath>
       <Modified>2023-11-11T16:25:59.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notes.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\notes.scale-100.png">
       <PackagePath>notes.scale-100.png</PackagePath>
       <Modified>2023-11-11T15:54:24.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ren.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\ren.scale-100.png">
       <PackagePath>ren.scale-100.png</PackagePath>
       <Modified>2023-11-11T15:54:54.987</Modified>
     </AppxPackagedFile>

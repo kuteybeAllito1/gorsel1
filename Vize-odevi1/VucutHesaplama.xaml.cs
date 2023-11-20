@@ -13,31 +13,31 @@ public partial class VucutHesaplama : ContentPage
             double heightInMeters = height / 100;
             double bmi = weight / (heightInMeters * heightInMeters);
             string bmiStatus = GetBmiStatus(bmi);
-            LabelResult.Text = $"Vücut Kitle ?ndeksi: {bmi:F2} ({bmiStatus})";
+            LabelResult.Text = $"Vücut Kitle indeksi: {bmi:F2} ({bmiStatus})";
         }
         else
         {
-            LabelResult.Text = "Lütfen geçerli boy ve kilo de?erleri girin.";
+            LabelResult.Text = "Lütfen geçerli boy ve kilo degerleri girin.";
         }
     }
 
     private string GetBmiStatus(double bmi)
     {
         if (bmi < 16)
-            return " Çok Ciddi Zay?fl?k";
+            return " ileri duzeyde zaif";
         else if (bmi >= 16 && bmi < 16.9)
-            return " Ciddi Zay?fl?k";
+            return " hafif duzeyde zaif";
         else if (bmi >= 17 && bmi < 18.4)
-            return " Hafif Zay?fl?k";
+            return " Hafif duzeyde Zayif";
         else if (bmi >= 18.5 && bmi < 24.9)
-            return " Normal";
+            return " Normal kilolu";
         else if (bmi >= 25 && bmi < 29.9)
-            return " Fazla Kilolu";
+            return " Fazla sisman";
         else if (bmi >= 30 && bmi < 34.9)
-            return " Obez (Obezite 1)";
+            return " 1.derece Obez ";
         else if (bmi >= 35 && bmi < 39.9)
-            return " Obez (Obezite 2)";
+            return " 2.derece Obez ";
         else
-            return " Çok Ciddi Obez (Obezite 3)";
+            return "3.derece Obez";
     }
 }

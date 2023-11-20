@@ -1,1 +1,1 @@
-C:\Users\husey\OneDrive - 2\Masaüstü\Vize-odevi1\Vize-odevi1.csproj;x64
+C:\Users\husey\OneDrive - Bartın Üniversitesi\Masaüstü\uzaktan ders\gorsel1\Vize-odevi1\Vize-odevi1.csproj;x64

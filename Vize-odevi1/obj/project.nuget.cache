@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Av6J5K6Yc7JCVV31iSzdDC8petfY5xZ6kReIaYfcAuHpD4SPUU6RdeeugMdp5hWc6LDt8OTBgR2JYT7PQQtwyg==",
+  "dgSpecHash": "GYSQblJAaNIjnvvfx2sV1CJxzl4fOyUuHedMIt+Wie2le8MTACWHglO+H0SVa5VimE2pwwOEtHBGPSUDHs0jkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\Vize-odevi1.csproj",
+  "projectFilePath": "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\Vize-odevi1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\husey\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\husey\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

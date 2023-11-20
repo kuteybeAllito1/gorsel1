@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\Vize-odevi1.csproj": {}
+    "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\Vize-odevi1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\Vize-odevi1.csproj": {
+    "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\Vize-odevi1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\Vize-odevi1.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\Vize-odevi1.csproj",
         "projectName": "Vize-odevi1",
-        "projectPath": "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\Vize-odevi1.csproj",
+        "projectPath": "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\Vize-odevi1.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\OneDrive - 2\\Masaüstü\\Vize-odevi1\\obj\\",
+        "outputPath": "C:\\Users\\husey\\OneDrive - Bartın Üniversitesi\\Masaüstü\\uzaktan ders\\gorsel1\\Vize-odevi1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
